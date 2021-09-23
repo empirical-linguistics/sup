@@ -2562,6 +2562,33 @@ input, select, textarea {
 				background-color:  #05aa05; !important;
 			}
 
+
+			/* Button greyedout */
+
+		button.greyedout,
+		.button.greyedout {
+			background-color: #595f59;
+			box-shadow: none !important;
+			color: #ffffff !important;
+		}
+
+			input[type="submit"].greyedout:hover,
+			input[type="reset"].greyedout:hover,
+			input[type="button"].greyedout:hover,
+			button.greyedout:hover,
+			.button.greyedout:hover {
+				background-color: #f3e9e8 !important;
+				color:rgba(0, 0, 0, 0.815) !important;
+			}
+
+			input[type="submit"].greyedout:active,
+			input[type="reset"].greyedout:active,
+			input[type="button"].greyedout:active,
+			button.greyedout:active,
+			.button.greyedout:active {
+				background-color:   #595f59; !important;
+			}
+
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
