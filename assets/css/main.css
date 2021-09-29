@@ -2589,6 +2589,32 @@ input, select, textarea {
 				background-color:   #595f59; !important;
 			}
 
+			/* Button blueish */
+
+		button.blueish,
+		.button.blueish {
+			background-color: #416ba1;
+			box-shadow: none !important;
+			color: #ffffff !important;
+		}
+
+			input[type="submit"].blueish:hover,
+			input[type="reset"].blueish:hover,
+			input[type="button"].blueish:hover,
+			button.blueish:hover,
+			.button.blueish:hover {
+				background-color: #f3e9e8 !important;
+				color:rgba(0, 0, 0, 0.815) !important;
+			}
+
+			input[type="submit"].blueish:active,
+			input[type="reset"].blueish:active,
+			input[type="button"].blueish:active,
+			button.blueish:active,
+			.button.blueish:active {
+				background-color:   #595f59; !important;
+			}
+
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
@@ -3061,7 +3087,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #55a5c5;
 			color: #d3d4e4;
 		}
 
