@@ -2686,27 +2686,51 @@ input, select, textarea {
 			}
 
 			.features li:nth-child(5) {
-				background-color: rgba(0, 0, 0, 0.175);
+				background-color: rgba(0, 0, 0, 0.035);
 			}
 
 			.features li:nth-child(6) {
-				background-color: rgba(0, 0, 0, 0.21);
+				background-color: rgba(0, 0, 0, 0.07);
 			}
 
 			.features li:nth-child(7) {
-				background-color: rgba(0, 0, 0, 0.245);
+				background-color: rgba(0, 0, 0, 0.105);
 			}
 
 			.features li:nth-child(8) {
-				background-color: rgba(0, 0, 0, 0.28);
+				background-color: rgba(0, 0, 0, 0.14);
 			}
 
 			.features li:nth-child(9) {
-				background-color: rgba(0, 0, 0, 0.315);
+				background-color: rgba(0, 0, 0, 0.035);
 			}
 
 			.features li:nth-child(10) {
-				background-color: rgba(0, 0, 0, 0.35);
+				background-color: rgba(0, 0, 0, 0.07);
+			}
+
+			.features li:nth-child(11) {
+				background-color: rgba(0, 0, 0, 0.105);
+			}
+
+			.features li:nth-child(12) {
+				background-color: rgba(0, 0, 0, 0.14);
+			}
+
+			.features li:nth-child(14) {
+				background-color: rgba(0, 0, 0, 0.035);
+			}
+
+			.features li:nth-child(14) {
+				background-color: rgba(0, 0, 0, 0.07);
+			}
+
+			.features li:nth-child(15) {
+				background-color: rgba(0, 0, 0, 0.105);
+			}
+
+			.features li:nth-child(16) {
+				background-color: rgba(0, 0, 0, 0.14);
 			}
 
 			.features li:before {
